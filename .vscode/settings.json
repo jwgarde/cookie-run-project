@@ -31,5 +31,9 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "files.associations": {
+    "3번.C": "cpp",
+    "문제 3번.C": "cpp"
+  }
 }
